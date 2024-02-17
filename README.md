@@ -1,5 +1,5 @@
 
-# Desafio - Avaliação Mentoria
+# Projeto - Resposividade
 
 Este é um exemplo de uma página HTML responsiva que destaca os serviços oferecidos por uma empresa de desenvolvimento de projetos para dispositivos móveis e web. A página é projetada para fornecer uma introdução atraente e informativa sobre os serviços oferecidos pela empresa. Esse é um projeto feito com orientação da Rocketseat durante a formação Explorer, o intuito desse projeto é ensinar sobre Responsividade.
 ## Funcionalidades
